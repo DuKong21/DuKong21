@@ -2,9 +2,11 @@
 
 # 이 원(Lee won)
 2003.05.07
-#### INTP
+**INTP**
+
 **하고싶은것 - 프론트, 백엔드 개발자**:computer:
- Plans for the future - Front-end and Back-end developer
+
+Plans for the future - Front-end and Back-end developer
 
 ---
 
