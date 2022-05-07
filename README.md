@@ -8,12 +8,12 @@ Plans for the future - Front-end and Back-end developer
 
 ---
 
-## 프론트 계획 (future plan)
+## 프론트 엔드 계획 (future-end plan)
 - HTML
 - CSS
 - javascript
 
-## 백 계획 (Back plan)
+## 백 엔드 계획 (Back-end plan)
 - Python
 - java
 - C, C++
