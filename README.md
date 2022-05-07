@@ -12,6 +12,7 @@ Plans for the future - Front-end and Back-end developer
 - HTML
 - CSS
 - javascript
+- React
 
 ## 백 엔드 계획 (Back-end plan)
 - Python
