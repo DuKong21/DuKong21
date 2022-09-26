@@ -2,22 +2,14 @@
 
 # 이 원(Lee won)
 2003.05.07
-#### 하고싶은것 - 프론트, 백엔드 개발자:computer:
+#### 하고싶은것 - 프론트엔드 개발자:computer:
 
 Plans for the future - Front-end and Back-end developer
 
 ---
 
-## 프론트 엔드 계획 (future-end plan)
+## 프론트엔드 계획 (future-end plan)
 - HTML
 - CSS
 - javascript
 - React
-
-## 백 엔드 계획 (Back-end plan)
-- Python
-- java
-- C, C++
-- SQl
-- API
-- PHP
