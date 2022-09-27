@@ -1,12 +1,11 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDuKong21&count_bg=%23000000&title_bg=%23848484&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 # 이 원(Lee won)
 2003.05.07
 #### 하고싶은것 - 프론트엔드 개발자:computer:
-
-https://dukong21.github.io/
-
 Plans for the future - Front-end and Back-end developer
+
+깃 홈페이지
+https://dukong21.github.io/
 
 ---
 
